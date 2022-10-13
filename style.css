@@ -1,0 +1,110 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #0065c3;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    position: fixed;
+}
+
+li {
+    display: inline;
+    background-color: #0065c3;
+    color: #ffffff;
+    padding-left: 1cm;
+    padding: 10px;
+    position: relative;
+    bottom: 40px;
+}
+
+.buypepsiproducts1 {
+    float: right;
+    border-radius: 25px;
+    border-color: #ffffff;
+    border-style:groove;
+    background-color: #0065c3;
+    position: relative;
+    top: 20px;
+    right: 80px;
+}
+
+.div-6 {
+    background-color:rgb(5,82,174);
+}
+
+.nitropepsican {
+    width: 350px;
+    float: center;
+    padding-left: 300px;
+}
+
+.nitrologo {
+    width: 400px;
+    float: center;
+    padding: 50px;
+    padding-bottom: 200px;
+}
+
+.div-3 {
+    background-color: black;
+    width:1500px;
+}
+
+.PZS-headline {
+    width: 700px;
+    position: relative;
+    bottom: 280px;
+    left: 100px;
+}
+
+.can-pzs {
+    position: relative;
+    left: 130px;
+}
+
+.div-4{
+    background-color: #0065c3;
+    width: 1500px;
+}
+
+.tag-line {
+    width: 500px;
+    position: relative;
+    left: 750px;
+}
+
+.bg1-desktop {
+    width: 1300px;
+    height: 650px;
+    position: relative;
+    left: 50px;
+}
+
+.twil-can {
+    width: 800px;
+}
+
+.twil-can-header {
+    width: 480px;
+    position: relative;
+    bottom: 300px;
+    right: 50px;
+}
+
+.div-7 {
+    background-color: #0065c3;
+}
+
+.promotion-hero {
+    width: 600px;
+    position: relative;
+    left: 600px;
+}
+
+.p-7 {
+    color: #ffffff;
+}
