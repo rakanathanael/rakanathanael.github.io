@@ -2,7 +2,13 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-ul {
+.pepsi-logo1 {
+    width: 73px;
+    position: relative;
+    left: 20px;
+}
+
+.ul-header {
     list-style-type: none;
     background-color: #0065c3;
     margin: 0;
@@ -11,24 +17,26 @@ ul {
     position: fixed;
 }
 
-li {
+.li-header {
     display: inline;
     background-color: #0065c3;
     color: #ffffff;
     padding-left: 1cm;
     padding: 10px;
     position: relative;
-    bottom: 40px;
+    bottom: 30px;
+    left: 50px;
 }
 
 .buypepsiproducts1 {
     float: right;
     border-radius: 25px;
     border-color: #ffffff;
-    border-style:groove;
+    border-style:solid;
     background-color: #0065c3;
+    color: #ffffff;
     position: relative;
-    top: 20px;
+    top: 30px;
     right: 80px;
 }
 
@@ -105,6 +113,81 @@ li {
     left: 600px;
 }
 
-.p-7 {
+.p-7-1 {
     color: #ffffff;
+    position: relative;
+    bottom: 250px;
+    left: 180px;
+}
+
+.p-7-2 {
+    color: #ffffff;
+    position: relative;
+    bottom: 200px;
+    left: 150px;
+}
+
+.footer {
+    background-color: #0065c3;
+    color: #ffffff;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.ul-footer-1 {
+    color: #ffffff;
+    position: relative;
+    left: 100px;
+}
+
+.li-footer-1 {
+    color: #ffffff;
+    display: block;
+    position: relative;
+    bottom: 63px;
+}
+
+.ul-footer-2{
+    color: #ffffff;
+    position: relative;
+    left: 320px;
+
+}
+
+.li-footer-2 {
+    color: #ffffff;
+    display: block;
+    position: relative;
+    bottom: 130px;
+}
+
+.ul-footer-3 {
+    color: #ffffff;
+    position: relative;
+    left: 500px;
+}
+
+.li-footer-3 {
+    color: #ffffff;
+    display: block;
+    position: relative;
+    bottom: 200px;
+}
+
+.p-footer {
+    float: right;
+    border-radius: 25px;
+    border-color: #ffffff;
+    border-style: solid;
+    background-color: #0065c3;
+    position: relative;
+    right: 100px;
+    bottom: 290px;
+}
+
+.logo-image-footer {
+    position: relative;
+    top: 38px;
 }
